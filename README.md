@@ -20,6 +20,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 Below you can see a video walkthrough of this code returning a readMe.
+![Screen Shot 2021-07-15 at 10 09 54 PM](https://user-images.githubusercontent.com/77689307/125880970-550f1835-487c-4c3c-bf95-5cf0e17c06b2.png)
+![Screen Shot 2021-07-15 at 10 10 00 PM](https://user-images.githubusercontent.com/77689307/125880976-8e8eb288-3d68-403c-9ed7-5b4321d2377b.png)
 
 
-[Screen Recording 2021-07-15 at 10.04.01 PM.zip](https://github.com/sanawck/read-me-generator/files/6827303/Screen.Recording.2021-07-15.at.10.04.01.PM.zip)
+![Screen Recording 2021-07-15 at 10 04 01 PM](https://user-images.githubusercontent.com/77689307/125881240-adeea188-99e5-4a5f-a5c5-a08e7ced9540.gif)
