@@ -16,3 +16,4 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+[Screen Recording 2021-07-15 at 10.04.01 PM.zip](https://github.com/sanawck/read-me-generator/files/6827303/Screen.Recording.2021-07-15.at.10.04.01.PM.zip)
